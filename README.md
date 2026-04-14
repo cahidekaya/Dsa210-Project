@@ -35,7 +35,7 @@ Purchases are concentrated during specific hours of the day. However, statistica
 - SciPy  
 
 ## Files
-- `dsa210-2.ipynb`: Main analysis notebook  
+- `dsa210-3.ipynb`: Main analysis notebook  
 ## Dataset
 The dataset is too large to be uploaded to GitHub. 
 The dataset used in this project can be accessed directly from Kaggle:
