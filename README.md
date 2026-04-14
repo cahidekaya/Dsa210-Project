@@ -36,7 +36,14 @@ Purchases are concentrated during specific hours of the day. However, statistica
 
 ## Files
 - `dsa210-2.ipynb`: Main analysis notebook  
-- `OnlineRetail.csv`: Dataset  
+## Dataset
+The dataset is too large to be uploaded to GitHub. 
+The dataset used in this project can be accessed directly from Kaggle:
 
-Cahide Kaya 33794
+[Online Retail Dataset]((https://www.kaggle.com/datasets/vijayuv/onlineretail))
+
+The specific file used is `OnlineRetail.csv`.
+
+## Author
+Cahide Kaya
 
