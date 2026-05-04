@@ -19,7 +19,8 @@ The project follows a standard data science pipeline:
 2. Feature Engineering (hour, day)  
 3. Exploratory Data Analysis (EDA)  
 4. Data Visualization  
-5. Hypothesis Testing  
+5. Hypothesis Testing
+6.  Machine Learning Methods
 
 ## Hypothesis
 - H0: There is no significant difference between daytime and evening purchases.  
@@ -52,7 +53,8 @@ The machine learning models are being used to identify patterns related to impul
 - Python  
 - Pandas  
 - Matplotlib  
-- SciPy  
+- SciPy
+- Scikit-learn
 
 ## Files
 - `dsa210-3.ipynb`: Main analysis notebook
