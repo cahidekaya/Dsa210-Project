@@ -42,8 +42,6 @@ The following steps were performed:
 ## Models Used
 
 - Logistic Regression
-- Decision Tree Classifier
-- Random Forest Classifier
 
 ## Current Progress
 
