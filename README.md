@@ -56,7 +56,7 @@ The machine learning models are being used to identify patterns related to impul
 
 ## Files
 - dsa210-3.ipynb : Initial EDA and hypothesis testing notebook
-- dsa210-4.ipynb : Updated notebook including machine learning methods
+- dsa210-5.ipynb : Updated notebook including machine learning methods
 ## Dataset
 The dataset is too large to be uploaded to GitHub. 
 The dataset used in this project can be accessed directly from Kaggle:
