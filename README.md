@@ -62,6 +62,8 @@ The machine learning models are being used to identify patterns related to impul
 ## Dataset
 The dataset is too large to be uploaded to GitHub. 
 The dataset used in this project can be accessed directly from Kaggle:
+Dataset link:  
+https://www.kaggle.com/datasets/vijayuv/onlineretail
 
 [Online Retail Dataset]((https://www.kaggle.com/datasets/vijayuv/onlineretail))
 
