@@ -37,15 +37,20 @@ The following steps were performed:
 - Data preprocessing and feature engineering
 - Train-test split
 - Model training and evaluation
+- Hyperparameter tuning using GridSearchCV
+- Model comparison using Accuracy, Precision, Recall, and F1 Score
+- Visualization of training, validation, and test performance
 - Prediction of purchasing behavior patterns
 
 ## Models Used
 
 - Logistic Regression
-
+- Decision Tree
+- Random Forest
+- 
 ## Current Progress
 
-The machine learning models are being used to identify patterns related to impulsive purchasing behavior. Preliminary results show that time-related features may contribute to predicting purchasing tendencies.
+The machine learning models were evaluated using GridSearchCV and multiple performance metrics. Results show that time-related features may contribute to identifying impulsive purchasing behavior patterns.
 
 ## Tools Used
 - Python  
@@ -57,6 +62,7 @@ The machine learning models are being used to identify patterns related to impul
 ## Files
 - dsa210-3.ipynb : Initial EDA and hypothesis testing notebook
 - dsa210-5.ipynb : Updated notebook including machine learning methods
+- dsa210-6.jpynb : Final notebook including GridSearchCV hyperparameter tuning, model comparison, and performance visualizations
 ## Dataset
 The dataset is too large to be uploaded to GitHub. 
 The dataset used in this project can be accessed directly from Kaggle:
