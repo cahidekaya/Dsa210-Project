@@ -63,7 +63,7 @@ The machine learning models were evaluated using GridSearchCV and multiple perfo
 - dsa210-3.ipynb : Initial EDA and hypothesis testing notebook
 - dsa210-5.ipynb : Updated notebook including machine learning methods
 - dsa210-6.jpynb : Final notebook including GridSearchCV hyperparameter tuning, model comparison, and performance visualizations
-- Final Report.pdf : Final project report
+- Final report.pdf : Final project report
 ## Dataset
 The dataset is too large to be uploaded to GitHub. 
 The dataset used in this project can be accessed directly from Kaggle:
