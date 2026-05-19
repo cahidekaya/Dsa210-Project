@@ -60,6 +60,7 @@ The machine learning models were evaluated using GridSearchCV and multiple perfo
 - Scikit-learn
 
 ## Files
+- DSA210_project-proposal cahide kaya.pdf
 - dsa210-3.ipynb : Initial EDA and hypothesis testing notebook
 - dsa210-5.ipynb : Updated notebook including machine learning methods
 - dsa210-6.jpynb : Final notebook including GridSearchCV hyperparameter tuning, model comparison, and performance visualizations
